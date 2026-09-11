@@ -1,0 +1,6 @@
+name: "convlstm_attention"
+sequence_length: 8
+input_size: [224, 224]
+hidden_channels: 64
+learning_rate: 0.0003
+weights_path: "models/convlstm_attention/checkpoints/best_model.pth"
